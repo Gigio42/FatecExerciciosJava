@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a8fbff1-be3a-41de-a179-a68ea9ac2345" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FatecExercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/AreaCircunferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/AreaQuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/CelsiusFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/ConversaoMCm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/DescontoIPTU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/FahrenheitCelsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/PesoIdeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista01/SalarioTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista02/DobroPositivoTriploNegativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista02/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista02/MediaEResultFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista02/ParImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista02/SomaOuMult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista03/Soma10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista03/SomaPar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista04/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista04/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/granja/Galinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/granja/Granja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gigio42&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gigio42/FatecExerciciosJava.git&quot;,
+    &quot;accountId&quot;: &quot;274611ed-cba0-4447-a9f9-cd951aa80c53&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -59,42 +47,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AreaCircunferencia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AreaQuadrado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CelsiusFahrenheit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoMCm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DescontoIPTU.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DobroPositivoTriploNegativo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FahrenheitCelsius.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Media.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PesoIdeal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Printer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SalarioTotal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Soma10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaOuMult.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaPar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.media.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Darkt/Documents/RandomCodeStuff/FatecExercicios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.App.executor": "Run",
+    "Application.AreaCircunferencia.executor": "Run",
+    "Application.AreaQuadrado.executor": "Run",
+    "Application.CelsiusFahrenheit.executor": "Run",
+    "Application.ConversaoMCm.executor": "Run",
+    "Application.DescontoIPTU.executor": "Run",
+    "Application.DobroPositivoTriploNegativo.executor": "Run",
+    "Application.FahrenheitCelsius.executor": "Run",
+    "Application.Granja.executor": "Run",
+    "Application.Media.executor": "Run",
+    "Application.ParImpar.executor": "Run",
+    "Application.PesoIdeal.executor": "Run",
+    "Application.Printer.executor": "Run",
+    "Application.SalarioTotal.executor": "Run",
+    "Application.Soma10.executor": "Run",
+    "Application.SomaOuMult.executor": "Run",
+    "Application.SomaPar.executor": "Run",
+    "Application.media.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Darkt/Documents/RandomCodeStuff/FatecExercicios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.App">
+}]]></component>
+  <component name="RunManager" selected="Application.Granja">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lista04.App" />
       <module name="FatecExercicios" />
@@ -121,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soma10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista03.Soma10" />
+    <configuration name="Granja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="granja.Granja" />
       <module name="FatecExercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lista03.*" />
+          <option name="PATTERN" value="granja.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomaOuMult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista02.SomaOuMult" />
+    <configuration name="Soma10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista03.Soma10" />
       <module name="FatecExercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lista02.*" />
+          <option name="PATTERN" value="lista03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Granja" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.SomaPar" />
         <item itemvalue="Application.Soma10" />
         <item itemvalue="Application.DobroPositivoTriploNegativo" />
-        <item itemvalue="Application.SomaOuMult" />
       </list>
     </recent_temporary>
   </component>
@@ -190,8 +179,18 @@
       <workItem from="1724626393590" duration="26000" />
       <workItem from="1725369483521" duration="4114000" />
       <workItem from="1725373839464" duration="17000" />
-      <workItem from="1725649748794" duration="567000" />
+      <workItem from="1725649748794" duration="1451000" />
+      <workItem from="1726540146793" duration="5708000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <option name="closed" value="true" />
+      <created>1725650575014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725650575014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
