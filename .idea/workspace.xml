@@ -4,44 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a8fbff1-be3a-41de-a179-a68ea9ac2345" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/src/Teste/ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/banco/BD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/banco/ProdutoConsultar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro/Capitulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro/Imagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro2/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro2/Capitulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro2/Imagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listaLivro2/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/Cobra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/Fruta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/Papagaio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/UsaAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorph_01/UsaReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/Cargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/Fatec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/Laboratorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/Lampada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/Mesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/UsaCargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/UsaFuncionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/UsaLaboratorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/UsaPessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8a8fbff1-be3a-41de-a179-a68ea9ac2345" name="Changes" comment="outras listas do furgere + lição">
+      <change afterPath="$PROJECT_DIR$/src/banco/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banco/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banco/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banco/ProdutoInserirTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/Aviao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/Capota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/MeuFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/PedidoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/PedidoItemAgregação.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/PedidoItemInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Animal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/BotaoInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/ET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Fisio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/MeuPi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Tela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/TextoInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/UsaGato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana11/Vida.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FatecExercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FatecExercicios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoologico/Galinha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/Galinha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banco/BD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banco/BD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -96,20 +90,24 @@
     &quot;Application.Frame01.executor&quot;: &quot;Run&quot;,
     &quot;Application.Granja.executor&quot;: &quot;Run&quot;,
     &quot;Application.Media.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeuPi.executor&quot;: &quot;Run&quot;,
     &quot;Application.ParImpar.executor&quot;: &quot;Run&quot;,
     &quot;Application.PersistePJ.executor&quot;: &quot;Run&quot;,
     &quot;Application.PesoIdeal.executor&quot;: &quot;Run&quot;,
     &quot;Application.Printer.executor&quot;: &quot;Run&quot;,
     &quot;Application.ProdutoConsultar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoInserirTeste.executor&quot;: &quot;Run&quot;,
     &quot;Application.SalarioTotal.executor&quot;: &quot;Run&quot;,
     &quot;Application.Soma10.executor&quot;: &quot;Run&quot;,
     &quot;Application.SomaOuMult.executor&quot;: &quot;Run&quot;,
     &quot;Application.SomaPar.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsaFuncionario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsaGato.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsaLaboratorio.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsaPessoa.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsaReflection.executor&quot;: &quot;Run&quot;,
     &quot;Application.media.executor&quot;: &quot;Run&quot;,
+    &quot;Application.semana11.App.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -130,6 +128,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="semana11" />
       <recent name="semana09" />
       <recent name="aula08" />
     </key>
@@ -137,7 +136,7 @@
       <recent name="C:\Users\Darkt\Documents\Code_stuff\FatecExerciciosJava\src\listaLivro2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.UsaGato">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="listaLivro.App" />
       <module name="FatecExercicios" />
@@ -151,8 +150,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoConsultar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banco.ProdutoConsultar" />
+    <configuration name="MeuPi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana11.MeuPi" />
+      <module name="FatecExercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoInserirTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banco.ProdutoInserirTeste" />
       <module name="FatecExercicios" />
       <extension name="coverage">
         <pattern>
@@ -164,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsaFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana09.UsaFuncionario" />
+    <configuration name="UsaGato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana11.UsaGato" />
       <module name="FatecExercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="semana09.*" />
+          <option name="PATTERN" value="semana11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,25 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsaLaboratorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana09.UsaLaboratorio" />
+    <configuration name="semana11.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana11.App" />
       <module name="FatecExercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="semana09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsaPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana09.UsaPessoa" />
-      <module name="FatecExercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semana09.*" />
+          <option name="PATTERN" value="semana11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsaGato" />
+        <item itemvalue="Application.MeuPi" />
+        <item itemvalue="Application.semana11.App" />
+        <item itemvalue="Application.ProdutoInserirTeste" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.UsaLaboratorio" />
-        <item itemvalue="Application.UsaPessoa" />
-        <item itemvalue="Application.UsaFuncionario" />
-        <item itemvalue="Application.ProdutoConsultar" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +244,12 @@
       <workItem from="1729980481705" duration="340000" />
       <workItem from="1730171169281" duration="2062000" />
       <workItem from="1730238886356" duration="19000" />
+      <workItem from="1730497634675" duration="7214000" />
+      <workItem from="1730507388336" duration="2672000" />
+      <workItem from="1730667557590" duration="8000" />
+      <workItem from="1731104111752" duration="6692000" />
+      <workItem from="1731453851092" duration="33000" />
+      <workItem from="1732155386139" duration="2056000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <option name="closed" value="true" />
@@ -262,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726783202265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="outras listas do furgere + lição">
+      <option name="closed" value="true" />
+      <created>1730497653607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730497653607</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +284,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="outras listas do furgere + lição" />
+    <option name="LAST_COMMIT_MESSAGE" value="outras listas do furgere + lição" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -14,6 +14,8 @@ public class BD {
     public final String LOGIN = "sa";
     public final String SENHA = "JubarteMagrathiana42!";
 
+    
+
     public boolean getConnection() {
         try {
             Class.forName(DRIVER);
